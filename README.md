@@ -1,4 +1,7 @@
 ### Hi there 👋
+I am currently an undergraduate student at the University of New Haven working towards a B.S. in Chemistry.
+Currently I am woring with Dr. Seifert on rebuilding a microwave spectrometer, and we are working on comunicating digitally with all of the older aspects of the instrument so as to be able to remotely manage and run experiments.
+If you need to reach out to me feel free to use my university email: jmcew1@unh.newhaven.edu
 
 <!--
 **McQN20/McQN20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
